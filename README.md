@@ -7,9 +7,6 @@
 
 > **Robust Multimodal Latent Repair for Fault-Tolerant Cyber-Physical Production Systems**
 > 
-> *Diyar Altinses and Andreas Schwung*
-> 
-> [Link to the Paper (Add URL/DOI here)](#)
 
 This repository contains the official implementation of the **Multimodal Residual-Contrastive Attention (MMRCA)** framework. Our model provides a mathematically grounded, deterministic approach to detecting and repairing signal-dependent sensor failures in industrial multimodal fusion systems.
 
@@ -57,12 +54,12 @@ Our MMRCA framework significantly outperforms established baselines (MMAE, MMVAE
 If you find this code or our theoretical framework useful in your research, please consider citing our paper:
 
 ```bibtex
-@article{altinses_mmrca_202X,
+@article{altinses_mmrca_2026,
   title={Robust Multimodal Latent Repair for Fault-Tolerant Cyber-Physical Production Systems},
   author={Altinses, Diyar and Schwung, Andreas},
-  journal={TBD},
-  year={202X},
-  doi={TBD}
+  journal={Journal of Manufacturing Systems},
+  year={2026},
+  doi={XXXX}
 }
 ```
 
