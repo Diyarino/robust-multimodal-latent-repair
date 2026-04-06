@@ -10,6 +10,8 @@
 
 This repository contains the official implementation of the **Multimodal Residual-Contrastive Attention (MMRCA)** framework. Our model provides a mathematically grounded, deterministic approach to detecting and repairing signal-dependent sensor failures in industrial multimodal fusion systems.
 
+![Failure Correction Demo](graphical_abstract.pdf)
+
 
 ## 📖 Abstract
 Multimodal fusion systems in industrial environments are critically vulnerable to sensor faults that destabilize downstream tasks. We introduce a mathematically grounded framework that fundamentally re-engineers the Transformer block for fault tolerance. By proving that residual connections preserve fault locality while attention heads diffuse it, we introduce the **Residual-Contrastive Attention (RCA)** module. Using a novel Local-Global Ratio (LGR) to detect anomalies and an Inverse-Residual Gate to suppress them, our method accurately localizes faults without external supervision and reconstructs corrupted tokens purely from global context.
