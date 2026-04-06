@@ -10,7 +10,7 @@
 
 This repository contains the official implementation of the **Multimodal Residual-Contrastive Attention (MMRCA)** framework. Our model provides a mathematically grounded, deterministic approach to detecting and repairing signal-dependent sensor failures in industrial multimodal fusion systems.
 
-![Failure Correction Demo](graphical_abstract.pdf)
+![Failure Correction Demo](graphical_abstract.jpg)
 
 
 ## 📖 Abstract
